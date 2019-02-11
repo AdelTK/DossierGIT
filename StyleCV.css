@@ -1,0 +1,75 @@
+body{
+  background: url("cropped-slider_fond-bois.jpg") fixed;
+  text-align: justify;
+  display: inline;
+}
+
+@font-face {
+  font-family: "LaPolice";
+  src: url(segoeprb.ttf) format('truetype');
+
+
+}
+
+#experience{
+  text-align: center;
+  border: 2px solid brown;
+  border-radius: 0px;
+  -moz-border-radius: 10px;
+ -webkit-border-radius: 10px;
+ box-shadow: 8px 8px 12px #aaa;
+ -moz-box-shadow: 8px 8px 12px #aaa;
+ -webkit-box-shadow: 8px 8px 12px #aaa;
+}
+
+#identite{
+  text-align: center;
+}
+
+#competences{
+  text-align: center;
+  border: 2px solid brown;
+  border-radius: 0px;
+  -moz-border-radius: 10px;
+ -webkit-border-radius: 10px;
+ box-shadow: 8px 8px 12px #aaa;
+ -moz-box-shadow: 8px 8px 12px #aaa;
+ -webkit-box-shadow: 8px 8px 12px #aaa;
+}
+
+#formation{
+  text-align: center;
+  border: 2px solid brown;
+  border-radius: 0px;
+  -moz-border-radius: 10px;
+ -webkit-border-radius: 10px;
+ box-shadow: 8px 8px 12px #aaa;
+ -moz-box-shadow: 8px 8px 12px #aaa;
+ -webkit-box-shadow: 8px 8px 12px #aaa;
+  }
+
+
+
+#experience ul{
+  -moz-border-radius: 10px;
+ -webkit-border-radius: 10px;
+ box-shadow: 8px 8px 12px #aaa;
+ -moz-box-shadow: 8px 8px 12px #aaa;
+ -webkit-box-shadow: 8px 8px 12px #aaa;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  font-family: "LaPolice";
+}
+
+h2{
+  text-align: center;
+  text-decoration: underline;
+}
+
+h3{
+  text-align: center;
+  text-decoration: underline;
+}
